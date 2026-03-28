@@ -1,0 +1,8 @@
+export { default as SeatMap }            from './SeatMap'
+export { default as PassengerForm }      from './PassengerForm'
+export { default as PaymentForm }        from './PaymentForm'
+export { default as PaymentModal }       from './PaymentModal'
+export { default as BookingConfirmation }from './BookingConfirmation'
+export { default as OrderSummary }       from './OrderSummary'
+export { default as FlightSeatMap }      from './FlightSeatMap'
+export { default as BaggageInfo }        from './BaggageInfo'
